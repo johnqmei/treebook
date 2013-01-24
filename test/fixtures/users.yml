@@ -3,3 +3,9 @@ yuwei:
   last_name: "Yao"
   email: "yuwei@treehouse.com"
   profile_name: "jqm"
+
+yuwei2:
+  first_name: "Yuwei2"
+  last_name: "Yao"
+  email: "yuwei2@treehouse.com"
+  profile_name: "jqm2"

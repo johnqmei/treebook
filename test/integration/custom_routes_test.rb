@@ -20,4 +20,8 @@ class CustomRoutesTest < ActionDispatch::IntegrationTest
   	assert_response :success
   end
 
+  test "that a profile page works" do
+    get '/jqm'
+    assert_response :success
+  end
 end
